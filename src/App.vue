@@ -8,9 +8,7 @@
                         <i class="fa fa-bars"></i>
                     </button>
                     <a class="navbar-brand" href="#page-top">
-                        <span class="logo">
-                            <img src="assets/img/logo.png" alt="">
-                        </span>
+                        <h4>Glowing Garden</h4>
                     </a>
                 </div>
 

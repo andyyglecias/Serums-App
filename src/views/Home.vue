@@ -123,67 +123,31 @@
                     <div class="isotope">
                         <div class="col-sm-4 portfolio-item web">
                             <a href="#portfolio-modal-1" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
                                 <img src="assets/img/IMG_3356.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item graphic">
                             <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
                                 <img src="assets/img/IMG_3358.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item print">
                             <a href="#portfolio-modal-1" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
                                 <img src="assets/img/IMG_3357.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item web">
                             <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
-                                <img src="assets/img/IMG_3364.JPG" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3365.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item graphic">
                             <a href="#portfolio-modal-1" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
                                 <img src="assets/img/IMG_3363.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item print">
                             <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
                                 <img src="assets/img/IMG_3366.JPG" class="img-centered" alt="">
                             </a>
                         </div>
