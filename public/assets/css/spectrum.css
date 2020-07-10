@@ -1754,8 +1754,14 @@ ul#filters li button.btn-link.active {
 .services-1 .icon-info-circle:before {
   content: "\f05a";
 }
+.services-1 .icon-fa-facebook-square:before {
+  content: "\f082";
+}
 .services-1 .icon-flag:before {
   content: "\f024";
+}
+.services-1 .icon-fa-instagram:before {
+  content: "\f16d";
 }
 .services-1.bg-dark .icon,
 .services-1.bg-primary .icon,

@@ -22,7 +22,7 @@
                     <div class="col-md-8 col-md-offset-2">
                         <h2>Products</h2>
                         <hr class="primary">
-                        <p>Three licensing options are availalbe for the Spectrum Template. A single application license, a multiple application license, and an extended license are the three options availalbe.</p>
+                        <p> {{ products }}</p>
                     </div>
                 </div>
                 <div class="row">
@@ -94,33 +94,27 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <h2 class="allcaps">Your New Website is Waiting!</h2>
+                        <h2 class="allcaps">Face Mask coming soon August 28th!</h2>
                         <br>
-                        <a href="#" class="btn btn-default btn-lg btn-square btn-raised">Buy Spectrum!</a>
+                        <p>Pre Order now to save 10%</p>
                     </div>
                 </div>
             </div>
         </section>
 
 
-        <section id="work" class="portfolio-1">
+    <section id="work" class="portfolio-1">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2>Testimonials</h2>
+                        <h2>Our Work</h2>
                         <hr class="primary">
                         <ul class="list-inline hidden-xs" id="filters">
                             <li>
-                                <button data-filter="*" type="button" class="btn btn-primary btn-square btn-raised">All</button>
+                                <button data-filter="*" type="button" class="btn btn-primary btn-square btn-raised">Hair</button>
                             </li>
                             <li>
-                                <button data-filter=".web" type="button" class="btn btn-primary btn-square btn-raised">Website</button>
-                            </li>
-                            <li>
-                                <button data-filter=".graphic" type="button" class="btn btn-primary btn-square btn-raised">Graphic</button>
-                            </li>
-                            <li>
-                                <button data-filter=".print" type="button" class="btn btn-primary btn-square btn-raised">Print</button>
+                                <button data-filter=".web" type="button" class="btn btn-primary btn-square btn-raised">Skin</button>
                             </li>
                         </ul>
                     </div>
@@ -135,7 +129,7 @@
                                         </h3>
                                     </div>
                                 </div>
-                                <img src="assets/img/demo-portfolio/1.jpg" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3356.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item graphic">
@@ -146,7 +140,7 @@
                                         </h3>
                                     </div>
                                 </div>
-                                <img src="assets/img/demo-portfolio/2.jpg" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3358.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item print">
@@ -157,7 +151,7 @@
                                         </h3>
                                     </div>
                                 </div>
-                                <img src="assets/img/demo-portfolio/3.jpg" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3357.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item web">
@@ -168,7 +162,7 @@
                                         </h3>
                                     </div>
                                 </div>
-                                <img src="assets/img/demo-portfolio/4.jpg" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3364.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item graphic">
@@ -179,7 +173,7 @@
                                         </h3>
                                     </div>
                                 </div>
-                                <img src="assets/img/demo-portfolio/5.jpg" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3363.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item print">
@@ -190,46 +184,15 @@
                                         </h3>
                                     </div>
                                 </div>
-                                <img src="assets/img/demo-portfolio/6.jpg" class="img-centered" alt="">
-                            </a>
-                        </div>
-                        <div class="col-sm-4 portfolio-item web">
-                            <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
-                                <img src="assets/img/demo-portfolio/7.jpg" class="img-centered" alt="">
-                            </a>
-                        </div>
-                        <div class="col-sm-4 portfolio-item graphic">
-                            <a href="#portfolio-modal-1" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
-                                <img src="assets/img/demo-portfolio/8.jpg" class="img-centered" alt="">
-                            </a>
-                        </div>
-                        <div class="col-sm-4 portfolio-item print">
-                            <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <div class="caption">
-                                    <div class="caption-content">
-                                        <h3><i class="fa fa-search fa-2x"></i>
-                                        </h3>
-                                    </div>
-                                </div>
-                                <img src="assets/img/demo-portfolio/9.jpg" class="img-centered" alt="">
+                                <img src="assets/img/IMG_3366.JPG" class="img-centered" alt="">
                             </a>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+
+
 
      
   </div>
@@ -246,7 +209,9 @@
 export default {
   data: function() {
     return {
-      info: "At Glowing Garden, our primary focus is making sure our products consists of healthy and all-natural ingrediants. Our serums are made up of Plant-based formulated products that contain vitamins, minerals, and antioxidents which will help repair and and replenish your skin and hair, leading to much more hydrated and nourished results.",
+      info: "Glowing Garden is a vegan beauty product company, committed to give you the healthiest glow with my handmade, 100% organic, pure, and natural beauty products, that keep you looking and feeling beautiful, without you having to worry about any toxins or harsh chemicals.",
+
+      products: "My products are formulated with plant-based ingredients that are rich in vitamins and minerals, and high in antioxidants which keep your skin and hair nourished everyday!",
       
       importance: "It's critical that you pay attnetion to the products you're using, especially when it comes to your skin. On average, your skin will absorb around 64% of the products we apply to it. So if those products you're currently using contain harsh chemicals and toxins, are synthetically processed and filled with preservatives, it will lead to unhealthy  and damaged to the skin.",
       

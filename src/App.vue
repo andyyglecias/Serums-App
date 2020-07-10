@@ -25,19 +25,13 @@
                             <a href="#about">About</a>
                         </li>
                         <li class="page-scroll">
-                            <a href="#features">Features</a>
+                            <a href="#features">Hair</a>
                         </li>
                         <li class="page-scroll">
-                            <a href="#work">Work</a>
+                            <a href="#work">Skin</a>
                         </li>
                         <li class="page-scroll">
-                            <a href="#blog">Blog</a>
-                        </li>
-                        <li class="page-scroll">
-                            <a href="#pricing">Pricing</a>
-                        </li>
-                        <li class="page-scroll">
-                            <a href="#contact">Contact</a>
+                            <a href="#blog">Bio</a>
                         </li>
                     </ul>
                 </div>
