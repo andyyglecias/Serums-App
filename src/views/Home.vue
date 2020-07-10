@@ -107,7 +107,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2>Our Work</h2>
+                        <h2>Skin and Hair Testimonials</h2>
                         <hr class="primary">
                         <ul class="list-inline hidden-xs" id="filters">
                             <li>

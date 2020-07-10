@@ -1,6 +1,12 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Bio from '../views/Bio.vue'
+import FaceSerum from '../views/FaceSerum.vue'
+import HairSerum from '../views/HairSerum.vue'
+
+
+
 
 Vue.use(VueRouter)
 
@@ -9,6 +15,21 @@ Vue.use(VueRouter)
     path: '/',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/bio',
+    name: 'Bio',
+    component: Bio
+  },
+  {
+    path: '/faceserum',
+    name: 'FaceSerum',
+    component: FaceSerum
+  },
+  {
+    path: '/hairserum',
+    name: 'HairSerum',
+    component: HairSerum
   },
   {
     path: '/about',
