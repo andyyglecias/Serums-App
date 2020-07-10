@@ -34,7 +34,7 @@
                             <div class="content">
                                 <div class="price">
                                     <span class="amount">$20</span>
-                                    <span class="period">one time</span>
+                                    <span class="period">Each</span>
                                 </div>
                                 <ul class="pricing-items list-unstyled text-center">
                                     <li class="item">
@@ -73,7 +73,7 @@
                             <div class="content">
                                 <div class="price">
                                     <span class="amount">$28</span>
-                                    <span class="period">one time</span>
+                                    <span class="period">Each</span>
                                 </div>
                                 <ul class="pricing-items list-unstyled text-center">
                                     <li class="item">
@@ -138,17 +138,17 @@
                         </div>
                         <div class="col-sm-4 portfolio-item web">
                             <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <img src="assets/img/IMG_3365.JPG" class="img-centered" alt="">
+                                <img src="assets/img/IMG_9565.png" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item graphic">
                             <a href="#portfolio-modal-1" class="portfolio-link" data-toggle="modal">
-                                <img src="assets/img/IMG_3363.JPG" class="img-centered" alt="">
+                                <img src="assets/img/IMG_9566.png" class="img-centered" alt="">
                             </a>
                         </div>
                         <div class="col-sm-4 portfolio-item print">
                             <a href="#portfolio-modal-2" class="portfolio-link" data-toggle="modal">
-                                <img src="assets/img/IMG_3366.JPG" class="img-centered" alt="">
+                                <img src="assets/img/IMG_9567.png" class="img-centered" alt="">
                             </a>
                         </div>
                     </div>
