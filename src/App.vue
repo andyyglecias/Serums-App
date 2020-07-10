@@ -47,7 +47,7 @@
     </nav>
 
 
-     <aside class="bg-parallax-dark nopadding" style="background-image: url(https://images.pexels.com/photos/1477166/pexels-photo-1477166.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);" data-stellar-background-ratio=".5">
+     <aside class="bg-parallax-dark nopadding" style="background-image: url(https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);" data-stellar-background-ratio=".https://images.pexels.com/photos/68507/spring-flowers-flowers-collage-floral-68507.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
             <div class="aside-overlay">
                 <div class="container">
                     <div class="row text-center">

@@ -28,7 +28,7 @@
                 <div class="row">
                     <div class="col-md-4 pricing-col" data-scrollreveal="enter left over 1.5s">
                         <div class="pricing-table">
-                            <div class="pricing-heading" style="background-image: url('assets/img/demo-pricing/1.jpg')">
+                            <div class="pricing-heading" style="background-image: url('assets/img/IMG_3354.JPG')">
                                 <h2>Vitalize and Shine Hair Serum</h2>
                             </div>
                             <div class="content">
@@ -48,7 +48,7 @@
                     </div>
                     <div class="col-md-4 pricing-col" data-scrollreveal="enter bottom over 1.5s">
                         <div class="pricing-table featured">
-                            <div class="pricing-heading" style="background-image: url('assets/img/demo-pricing/2.jpg')">
+                            <div class="pricing-heading" style="background-image: url('assets/img/IMG_3353.JPG')">
                                 <h2>Bundle Deal!</h2>
                             </div>
                             <div class="content">
@@ -67,7 +67,7 @@
                     </div>
                     <div class="col-md-4 pricing-col" data-scrollreveal="enter right over 1.5s">
                         <div class="pricing-table">
-                            <div class="pricing-heading" style="background-image: url('assets/img/demo-pricing/1.jpg')">
+                            <div class="pricing-heading" style="background-image: url('assets/img/IMG_3355.JPG')">
                                 <h2>Hydrate and Replenish Facial Serum</h2>
                             </div>
                             <div class="content">
@@ -89,6 +89,18 @@
             </div>
         </section>
 
+
+        <section class="bg-primary">
+            <div class="container">
+                <div class="row text-center">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <h2 class="allcaps">Your New Website is Waiting!</h2>
+                        <br>
+                        <a href="#" class="btn btn-default btn-lg btn-square btn-raised">Buy Spectrum!</a>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 
         <section id="work" class="portfolio-1">
