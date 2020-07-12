@@ -57,7 +57,7 @@
                                     <li class="item">
                                         <span class="text-primary">Ingredients {{ hsingredients }}</span> 
                                     <li class="pricing-button">
-                                        <a href="#" class="btn btn-primary btn-square btn-raised">Buy Now</a>
+                                        <a href="https://www.instagram.com/glowingggarden/" class="btn btn-primary btn-square btn-raised">Buy Now</a>
                                     </li>
                                 </ul>
                             </div>
@@ -76,7 +76,7 @@
                                 <ul class="pricing-items list-unstyled text-center">
                                     <li class="item">Limited Time offer!</li>
                                     <li class="pricing-button">
-                                        <a href="#" class="btn btn-primary btn-square btn-raised">Buy Now</a>
+                                        <a href="https://www.instagram.com/glowingggarden/" class="btn btn-primary btn-square btn-raised">Buy Now</a>
                                     </li>
                                 </ul>
                             </div>
@@ -96,7 +96,7 @@
                                     <li class="item">
                                         <span class="text-primary">Ingredients: {{ fsingredients }}</span>
                                     <li class="pricing-button">
-                                        <a href="#" class="btn btn-primary btn-square btn-raised">Buy Now</a>
+                                        <a href="https://www.instagram.com/glowingggarden/" class="btn btn-primary btn-square btn-raised">Buy Now</a>
                                     </li>
                                 </ul>
                             </div>
@@ -129,7 +129,10 @@
                         <h2>Skin Serum</h2>
                         <hr class="primary">
                         <p> {{ skinserum }}</p>
-                    </div>
+        </div>
+
+
+
 
 
     <section id="work" class="portfolio-1">
