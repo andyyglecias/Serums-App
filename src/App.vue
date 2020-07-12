@@ -39,23 +39,8 @@
     </nav>
 
 
-     <aside class="bg-parallax-dark nopadding" style="background-image: url(https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);" data-stellar-background-ratio=".https://images.pexels.com/photos/68507/spring-flowers-flowers-collage-floral-68507.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
-            <div class="aside-overlay">
-                <div class="container">
-                    <div class="row text-center">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <h2>Glowing Garden</h2>
-                            <hr class="light">
-                            <h4>The healthy way to GLOW</h4>
-                               </div>
-                    </div>
-                </div>
-            </div>
-        </aside>
-
-
         
-  <router-view/>
+<router-view/>
 
   <footer class="footer-1">
             <div class="upper">

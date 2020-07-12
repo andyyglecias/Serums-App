@@ -1,5 +1,22 @@
 <template>
   <div class="home">
+    
+         <aside class="bg-parallax-dark nopadding" style="background-image: url(https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);" data-stellar-background-ratio=".https://images.pexels.com/photos/68507/spring-flowers-flowers-collage-floral-68507.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500">
+            <div class="aside-overlay">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="col-lg-8 col-lg-offset-2">
+                            <h2>Glowing Garden</h2>
+                            <hr class="light">
+                            <h4>The healthy way to GLOW</h4>
+                               </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+
+
     <div>
       <section id="about" class="text-center">
             <div class="container">
@@ -34,7 +51,7 @@
                             <div class="content">
                                 <div class="price">
                                     <span class="amount">$20</span>
-                                    <span class="period">Each</span>
+                                    <span class="period"></span>
                                 </div>
                                 <ul class="pricing-items list-unstyled text-center">
                                     <li class="item">
@@ -101,6 +118,18 @@
                 </div>
             </div>
         </section>
+
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2>Hair Serum</h2>
+                        <hr class="primary">
+                        <p>Spectrum is one of the most flexible themes available. It has a variety of different header formats, section options, and color schemes built in. It also includes complete LESS files for deeper customization!</p>
+                    </div>
+
+        <div class="col-lg-8 col-lg-offset-2 text-center">
+                        <h2>Skin Serum</h2>
+                        <hr class="primary">
+                        <p>Spectrum is one of the most flexible themes available. It has a variety of different header formats, section options, and color schemes built in. It also includes complete LESS files for deeper customization!</p>
+                    </div>
 
 
     <section id="work" class="portfolio-1">
@@ -183,11 +212,11 @@ export default {
       
       sellpoint: "You will feel and will be much healthier if you stick to eating nutritious food. So if you chang up your diet for important health reasons, why won't you switch to clean beauty products for similar reasons?",
 
-      faceserum: "Our Facial Serum is an anti-aging and anti-acne face treatment designed to hydrate and replenish the skin. Tired of red scars? The essential nutrients in this serum support cell regeneration and prevent cell damage! It is rich in antioxidants and anti-inflammatory properties that help deeply moisturize, help clear acne scars, fine lines and wrinkles, leaving you with beautiful healthy looking skin.",
+      faceserum: "My Hydrate & Replenish Facial Serum is a light-weight daily moisturizer packed with 100% all-natural, plant-based ingredients that are rich in minerals and vitamins, and high in antioxidants and anti-inflammatory properties that help keep your skin nourished and works on improving collagen production, and prevents cell damage. My facial serum also helps decreaseenvironmental damage to the skin caused from harmful pollutants and chemicals. These essential nutrients blended in my serum keep the skin deeply moisturized, nourished, bright, toned, antioxidantssmooth while protecting it from UV rays and sun damage. It also decreases the appearance of fine lines & wrinkles, redness, sun-spots, and acne scars. It also prevents further irritation and dryness, and helps treat certain skin conditions such as psoriasis, rosacea, and eczema. It containsabsolutely NO  harsh chemicals, toxins, parabens, water or alcohol. My facial serum is also non-comedogenic, meaning it is specially formulated to not cause blocked pores or acne breakouts!",
 
       fsingredients: "Organic Roseship Seed Oil, Organin Hemp Seed Oil, Organic Pomengranate Seed Oil, Organic Grape Seed Oil, Organic Moroccan Argan Oil",
 
-      hairserum: "Our Organic Hair Serum is a daily hair treatment designed to vitalize and add lots of shine to your hair, leaving it looking beautifully conditioned regularly! Packed with  hydrating ingredients, this product is destined to produce healthy hair while controling frizziness, leaving you with a beautiful and non-greasy look! Essential oils blended in the serum are also known to refresh, energize, and uplift your mood!",
+      hairserum: "My Vitalize & Shine Hair Serum is packed with 100% all-natural daily nourishing plant-based ingredients that promote healthy, silky smooth hair by strengthening and moisturizing it, leaving it beautifully conditioned every day. It helps prevent frizziness, controls humidity, and adds shine without making your hair look greasy. My hair serum also promotes hair growth and eliminates dandruff when massaged to the scalp twice a week. The essential oils blended in the serum are meant to refresh, energize, and uplift your mood!",
 
       hsingredients: "Organin Jojoba Oil, Organic Grape Seed Oil, Organic Moroccan Argan Oil, Bergamot, Grapefruit, Orange, Lime, and Lemon Organin essential Oils."
       
