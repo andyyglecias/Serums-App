@@ -120,15 +120,15 @@
         </section>
 
         <div class="col-lg-8 col-lg-offset-2 text-center">
-                        <h2>Hair Serum</h2>
+                        <h2> Hair Serum</h2>
                         <hr class="primary">
-                        <p>Spectrum is one of the most flexible themes available. It has a variety of different header formats, section options, and color schemes built in. It also includes complete LESS files for deeper customization!</p>
+                        <p> {{ hairserum }}</p>
                     </div>
 
         <div class="col-lg-8 col-lg-offset-2 text-center">
                         <h2>Skin Serum</h2>
                         <hr class="primary">
-                        <p>Spectrum is one of the most flexible themes available. It has a variety of different header formats, section options, and color schemes built in. It also includes complete LESS files for deeper customization!</p>
+                        <p> {{ skinserum }}</p>
                     </div>
 
 
@@ -138,14 +138,6 @@
                     <div class="col-lg-12 text-center">
                         <h2>Skin and Hair Testimonials</h2>
                         <hr class="primary">
-                        <ul class="list-inline hidden-xs" id="filters">
-                            <li>
-                                <button data-filter="*" type="button" class="btn btn-primary btn-square btn-raised">Hair</button>
-                            </li>
-                            <li>
-                                <button data-filter=".web" type="button" class="btn btn-primary btn-square btn-raised">Skin</button>
-                            </li>
-                        </ul>
                     </div>
                 </div>
                 <div class="row" data-scrollreveal="enter bottom over 1.5s">
@@ -212,7 +204,7 @@ export default {
       
       sellpoint: "You will feel and will be much healthier if you stick to eating nutritious food. So if you chang up your diet for important health reasons, why won't you switch to clean beauty products for similar reasons?",
 
-      faceserum: "My Hydrate & Replenish Facial Serum is a light-weight daily moisturizer packed with 100% all-natural, plant-based ingredients that are rich in minerals and vitamins, and high in antioxidants and anti-inflammatory properties that help keep your skin nourished and works on improving collagen production, and prevents cell damage. My facial serum also helps decreaseenvironmental damage to the skin caused from harmful pollutants and chemicals. These essential nutrients blended in my serum keep the skin deeply moisturized, nourished, bright, toned, antioxidantssmooth while protecting it from UV rays and sun damage. It also decreases the appearance of fine lines & wrinkles, redness, sun-spots, and acne scars. It also prevents further irritation and dryness, and helps treat certain skin conditions such as psoriasis, rosacea, and eczema. It containsabsolutely NO  harsh chemicals, toxins, parabens, water or alcohol. My facial serum is also non-comedogenic, meaning it is specially formulated to not cause blocked pores or acne breakouts!",
+      skinserum: "My Hydrate & Replenish Facial Serum is a light-weight daily moisturizer packed with 100% all-natural, plant-based ingredients that are rich in minerals and vitamins, and high in antioxidants and anti-inflammatory properties that help keep your skin nourished and works on improving collagen production, and prevents cell damage. My facial serum also helps decreaseenvironmental damage to the skin caused from harmful pollutants and chemicals. These essential nutrients blended in my serum keep the skin deeply moisturized, nourished, bright, toned, antioxidantssmooth while protecting it from UV rays and sun damage. It also decreases the appearance of fine lines & wrinkles, redness, sun-spots, and acne scars. It also prevents further irritation and dryness, and helps treat certain skin conditions such as psoriasis, rosacea, and eczema. It containsabsolutely NO  harsh chemicals, toxins, parabens, water or alcohol. My facial serum is also non-comedogenic, meaning it is specially formulated to not cause blocked pores or acne breakouts!",
 
       fsingredients: "Organic Roseship Seed Oil, Organin Hemp Seed Oil, Organic Pomengranate Seed Oil, Organic Grape Seed Oil, Organic Moroccan Argan Oil",
 
