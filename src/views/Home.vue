@@ -57,7 +57,7 @@
                                     <li class="item">
                                         <span class="text-primary">Ingredients {{ hsingredients }}</span> 
                                     <li class="pricing-button">
-                                        <a href="https://www.instagram.com/glowingggarden/" class="btn btn-primary btn-square btn-raised">Buy Now</a>
+                                        <a href="https://www.instagram.com/glowingggarden" class="btn btn-primary btn-square btn-raised">Message to Buy!</a>
                                     </li>
                                 </ul>
                             </div>
@@ -76,7 +76,7 @@
                                 <ul class="pricing-items list-unstyled text-center">
                                     <li class="item">Limited Time offer!</li>
                                     <li class="pricing-button">
-                                        <a href="https://www.instagram.com/glowingggarden/" class="btn btn-primary btn-square btn-raised">Buy Now</a>
+                                        <a href="https://www.instagram.com/glowingggarden" class="btn btn-primary btn-square btn-raised">Message to Buy!</a>
                                     </li>
                                 </ul>
                             </div>
@@ -96,7 +96,7 @@
                                     <li class="item">
                                         <span class="text-primary">Ingredients: {{ fsingredients }}</span>
                                     <li class="pricing-button">
-                                        <a href="https://www.instagram.com/glowingggarden/" class="btn btn-primary btn-square btn-raised">Buy Now</a>
+                                        <a href="https://www.instagram.com/glowingggarden" class="btn btn-primary btn-square btn-raised">Message to Buy!</a>
                                     </li>
                                 </ul>
                             </div>
