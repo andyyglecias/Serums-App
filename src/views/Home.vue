@@ -135,6 +135,7 @@
 
 
 
+
     <section id="work" class="portfolio-1">
             <div class="container">
                 <div class="row">
@@ -179,6 +180,43 @@
                 </div>
             </div>
         </section>
+
+
+         <section class="about-3 bg-lighter text-center">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-7 col-md-6">
+                        <h2>My Story</h2>
+                        <hr class="primary">
+                        <p>From middle school to my early 20's, I struggled with acne, acne scars, and sunspots, which led to several dermatologist visits but nothing I tried improved my skin. In 2018, I started focusing more on using clean-beauty prodcuts that contain no toxins, parabens, sulfates, or any harsh chemicals that cause to your skin and I realized that a lot of expensive beauty products contain unhealthy ingredients and additives that damage your skin and hair. Fast Forward to 2020, I have been inpsired to make my own healthy vegan beauty products. I believe its very important to pay attention to the products you're using on your skin because your skin averagely absorbs up to 64% of the products we apply to it.</p>
+                    </div>
+                    <div class="col-lg-3 col-lg-offset-1 col-md-6">
+                        <h2>Founder</h2>
+                        <hr class="primary">
+                        <div id="about-3-carousel" class="text-center">
+                            <div class="item about-img-1">
+                                <div class="info">
+                                    <!-- Mobile Fallback Image -->
+                                    <img class="img-responsive img-circle visible-xs" src="assets/img/demo-portraits/portrait-1.jpg" alt="">
+                                    <!-- Name / Position / Social Links -->
+                                    <h3>Patricia Smith</h3>
+                                    <p>CEO &amp; Founder</p>
+                                    <ul class="list-inline">
+                                        <li><a class="light-text" href="#"><i class="fa fa-facebook fa-fw"></i></a>
+                                        </li>
+                                        <li><a class="light-text" href="#"><i class="fa fa-linkedin fa-fw"></i></a>
+                                        </li>
+                                        <li><a class="light-text" href="#"><i class="fa fa-twitter fa-fw"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
 
 
 
