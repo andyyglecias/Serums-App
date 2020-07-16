@@ -60,13 +60,13 @@
                             <h4>Features</h4>
                             <ul class="list-unstyled footer-links">
                                 <li>
-                                    <a href="#">Responsive</a>
+                                    <a href="#">All-Natural</a>
                                 </li>
                                 <li>
-                                    <a href="#">Easy to Use</a>
+                                    <a href="#">Vegan Safe</a>
                                 </li>
                                 <li>
-                                    <a href="#">Well Documented</a>
+                                    <a href="#">Plant Based</a>
                                 </li>
                             </ul>
                         </div>
