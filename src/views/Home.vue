@@ -194,12 +194,12 @@
                         <h2>Founder</h2>
                         <hr class="primary">
                         <div id="about-3-carousel" class="text-center">
-                            <div class="item about-img-1">
+                            <div class="item about-img-2">
                                 <div class="info">
                                     <!-- Mobile Fallback Image -->
-                                    <img class="img-responsive img-circle visible-xs" src="assets/img/demo-portraits/portrait-1.jpg" alt="">
+                                    <img class="img-responsive img-circle visible-xs" src="assets/img/demo-portraits/portrait-9.jpg" alt="">
                                     <!-- Name / Position / Social Links -->
-                                    <h3>Patricia Smith</h3>
+                                    <h3>Anadelis Aldarondo</h3>
                                     <p>CEO &amp; Founder</p>
                                     <ul class="list-inline">
                                         <li><a class="light-text" href="#"><i class="fa fa-facebook fa-fw"></i></a>
