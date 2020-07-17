@@ -51,7 +51,7 @@
                             <div class="content">
                                 <div class="price">
                                     <span class="amount">$20</span>
-                                    <span class="period"></span>
+                                    <span class="period">Each</span>
                                 </div>
                                 <ul class="pricing-items list-unstyled text-center">
                                     <li class="item">
