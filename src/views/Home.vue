@@ -201,14 +201,7 @@
                                     <!-- Name / Position / Social Links -->
                                     <h3>Anadelis Aldarondo</h3>
                                     <p>CEO &amp; Founder</p>
-                                    <ul class="list-inline">
-                                        <li><a class="light-text" href="#"><i class="fa fa-facebook fa-fw"></i></a>
-                                        </li>
-                                        <li><a class="light-text" href="#"><i class="fa fa-linkedin fa-fw"></i></a>
-                                        </li>
-                                        <li><a class="light-text" href="#"><i class="fa fa-twitter fa-fw"></i></a>
-                                        </li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                         </div>
