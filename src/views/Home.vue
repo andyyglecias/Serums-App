@@ -194,7 +194,7 @@
                         <h2>Founder</h2>
                         <hr class="primary">
                         <div id="about-3-carousel" class="text-center">
-                            <div class="item about-img-2">
+                            <div class="item about-img-1">
                                 <div class="info">
                                     <!-- Mobile Fallback Image -->
                                     <img class="img-responsive img-circle visible-xs" src="assets/img/demo-portraits/portrait-9.jpg" alt="">
