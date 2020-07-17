@@ -71,16 +71,16 @@
                             </ul>
                         </div>
                         <div class="col-md-3">
-                            <h4>Documentation</h4>
+                            <h4>Extras/Deals</h4>
                             <ul class="list-unstyled footer-links">
                                 <li>
-                                    <a href="#">Bootstrap Components</a>
+                                    <a href="#">Refer 3 friends get a free bundle!</a>
                                 </li>
                                 <li>
-                                    <a href="#">Usage Information</a>
+                                    <a href="#">1 Free bottle for every 5 purchases </a>
                                 </li>
                                 <li>
-                                    <a href="#">Full Documentation</a>
+                                    <a href="#">Please feel free to send me feedback!</a>
                                 </li>
                             </ul>
                         </div>
