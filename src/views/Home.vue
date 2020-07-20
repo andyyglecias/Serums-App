@@ -188,7 +188,7 @@
                     <div class="col-lg-7 col-md-6">
                         <h2>My Story</h2>
                         <hr class="primary">
-                        <p>From middle school to my early 20's, I struggled with acne, acne scars, and sunspots, which led to several dermatologist visits but nothing I tried improved my skin. In 2018, I started focusing more on using clean-beauty prodcuts that contain no toxins, parabens, sulfates, or any harsh chemicals that cause to your skin and I realized that a lot of expensive beauty products contain unhealthy ingredients and additives that damage your skin and hair. Fast Forward to 2020, I have been inpsired to make my own healthy vegan beauty products. I believe its very important to pay attention to the products you're using on your skin because your skin averagely absorbs up to 64% of the products we apply to it.</p>
+                        <p> {{ mystory }}</p>
                     </div>
                     <div class="col-lg-3 col-lg-offset-1 col-md-6">
                         <h2>Founder</h2>
@@ -244,7 +244,9 @@ export default {
 
       hairserum: "My Vitalize & Shine Hair Serum is packed with 100% all-natural daily nourishing plant-based ingredients that promote healthy, silky smooth hair by strengthening and moisturizing it, leaving it beautifully conditioned every day. It helps prevent frizziness, controls humidity, and adds shine without making your hair look greasy. My hair serum also promotes hair growth and eliminates dandruff when massaged to the scalp twice a week. The essential oils blended in the serum are meant to refresh, energize, and uplift your mood!",
 
-      hsingredients: "Organin Jojoba Oil, Organic Grape Seed Oil, Organic Moroccan Argan Oil, Bergamot, Grapefruit, Orange, Lime, and Lemon Organin essential Oils."
+      hsingredients: "Organin Jojoba Oil, Organic Grape Seed Oil, Organic Moroccan Argan Oil, Bergamot, Grapefruit, Orange, Lime, and Lemon Organin essential Oils.",
+
+      mystory: "From middle school to my early 20's, I struggled with acne, acne scars, and sunspots, which led to several dermatologist visits but nothing I tried improved my skin. In 2018, I started focusing more on using clean-beauty prodcuts that contain no toxins, parabens, sulfates, or any harsh chemicals that cause to your skin and I realized that a lot of expensive beauty products contain unhealthy ingredients and additives that damage your skin and hair. Fast Forward to 2020, I have been inpsired to make my own healthy vegan beauty products. I believe its very important to pay attention to the products you're using on your skin because your skin averagely absorbs up to 64% of the products we apply to it."
       
     };
   },
