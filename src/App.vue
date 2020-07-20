@@ -57,16 +57,16 @@
                             </address>
                         </div>
                         <div class="col-md-3">
-                            <h4>Features</h4>
+                            <h4>Handmade</h4>
                             <ul class="list-unstyled footer-links">
                                 <li>
                                     <a href="#">All-Natural</a>
                                 </li>
                                 <li>
-                                    <a href="#">Vegan Safe</a>
+                                    <a href="#">Organic</a>
                                 </li>
                                 <li>
-                                    <a href="#">Plant Based</a>
+                                    <a href="#">Vegan</a>
                                 </li>
                             </ul>
                         </div>
