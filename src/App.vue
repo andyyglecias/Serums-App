@@ -71,7 +71,7 @@
                                     <a href="#">Refer 3 friends get a free bundle!</a>
                                 </li>
                                 <li>
-                                    <a href="#">1 Free bottle for every 5 purchases </a>
+                                    <a href="#">1 free bottle for every 5 purchases </a>
                                 </li>
                                 <li>
                                     <a href="#">Please feel free to send me feedback!</a>
