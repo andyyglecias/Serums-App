@@ -111,7 +111,7 @@
             <div class="container">
                 <div class="row text-center">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <h2 class="allcaps">Face Mask coming soon August 28th!</h2>
+                        <h2 class="allcaps">Face Cleanser coming soon!</h2>
                         <br>
                         <p>Pre Order now to save 10%</p>
                     </div>
