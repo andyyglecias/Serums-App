@@ -113,7 +113,7 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <h2 class="allcaps">Face Cleanser coming soon!</h2>
                         <br>
-                        <p>Pre Order now to save 10%</p>
+                        <p></p>
                     </div>
                 </div>
             </div>
